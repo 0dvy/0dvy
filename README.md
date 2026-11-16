@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+⟡ About Me
+
+» I'm currently building websites, experimenting with new ideas, and working on creative projects.
+
+⌁ I'm always open to collaborating with developers, security enthusiasts, and designers.
+
+⤷ I'm looking to connect with people who enjoy creating cool things and sharing knowledge.
+
+⊹ I'm currently learning more about React, web security, and improving my design skills.
+
+› Ask me about front-end development, website security, UI/UX, or graphic design.
+
+※ Fun fact: I enjoy mixing creativity and technology to turn simple ideas into something awesome.
 
 
 # 💻 Tech Stack:
