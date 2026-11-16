@@ -1,16 +1,16 @@
 ⟡ About Me
 
-» I'm currently building websites, experimenting with new ideas, and working on creative projects.
+» Building modern websites and creative projects.
 
-⌁ I'm always open to collaborating with developers, security enthusiasts, and designers.
+⌁ Open to collaborating with developers, designers & security enthusiasts.
 
-⤷ I'm looking to connect with people who enjoy creating cool things and sharing knowledge.
+⤷ Always looking to learn and share ideas.
 
-⊹ I'm currently learning more about React, web security, and improving my design skills.
+⊹ Currently exploring React, web security & UI/UX.
 
-› Ask me about front-end development, website security, UI/UX, or graphic design.
+› Ask me about Front-End, Cybersecurity & Graphic Design.
 
-※ Fun fact: I enjoy mixing creativity and technology to turn simple ideas into something awesome.
+※ I turn creative ideas into digital experiences.
 
 
 # 💻 Tech Stack:
